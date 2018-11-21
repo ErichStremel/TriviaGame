@@ -1,0 +1,48 @@
+#wrapper {
+    text-align: center;
+    border: 5px solid black;
+    margin-right: 200px;
+    margin-left: 200px;
+    background-color:royalblue;
+    text-shadow: -1px 0 black, 0 1px black, 4px 0 black, 0 -1px black;
+    padding-bottom: 10px;
+    background-image: url(./CObackground.png); 
+    font-weight: 700;
+}
+
+#subwrapper {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: beige;
+    text-shadow: -1px 0 black, 0 1px black, 4px 0 black, 0 -1px black;
+    font-weight: 700;
+   
+}
+
+h1 {
+    /* background-color: royalblue; */
+    /* border:  5px solid black; */
+    color:beige;
+    text-shadow: -1px 0 black, 0 1px black, 4px 0 black, 0 -1px black;
+    font-weight: 700;
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+}
+
+body {
+    background-image: url(./mountain.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#counter  {
+    color: red;
+}
+
+h2 {
+    /* color: red; */
+}
+
+input {
+    margin-left: 10px;
+}
